@@ -1,0 +1,7 @@
+LDX     04
+JEQ     30
+JLT     38
+LDCH    50
+TD      E0
+TIX     2C
+WD      DC
